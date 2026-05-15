@@ -4,8 +4,6 @@
 - 🎓I did my PhD on [Direct Numerical Simulations of Hydrodynamics and Mass Transfer in Dense Bubbly Flows](https://research.tue.nl/en/publications/direct-numerical-simulations-of-hydrodynamics-and-mass-transfer-i)
 - 📚 My postdoc in the group of [Physics of Complex Fluids](https://www.utwente.nl/en/tnw/pcf/) at University of Twente aimed at the simulation of ⚡🌊electrohydrodynamics. See the released [source code](https://github.com/iroghair/openFoamEHD) and publications [1](https://doi.org/10.1007/s10404-015-1581-5) [2](https://doi.org/10.1038/srep06378)
 - 👨🏼‍💻 I develop in-house codes and work with OpenFOAM-based models for CFD type calculations, and create phenomenological models (reduced order models). We use C++, Python, Matlab, although my first program was on a C64 🦕
-- 🌱 I’m currently learning to apply 🧠 machine learning to improve our 👨🏼‍🔬 experimental techniques and numerical models. I use various aspects of ML, e.g. CNN for object detection and auto-regressive neural simulation models.
-- 🤯 I'm also learning how to solder and [DIY electronics](https://github.com/iroghair/simonsays), 🛹 skate boarding, 🎸guitar playing and how to raise kids.
 - 📫 Contact me through my work e-mail; see the website linked in the first item.
 
 <!---
